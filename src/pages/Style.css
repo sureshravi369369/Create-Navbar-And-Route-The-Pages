@@ -1,0 +1,8 @@
+.home,.about,.services,.products,.signup,.notfound{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: black;
+    height: 90vh;
+}
